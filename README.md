@@ -1,7 +1,7 @@
 ### Greetings! 👋
 Welcome! I am a professional AI Research Engineer, holding a Master's degree in Computer Engineering, with a deep specialization in Natural Language Processing (NLP) applications.
 
-My professional pursuits are deeply rooted in:   
+My key areas of interest include:    
 
 - [✅] **Natural Language Processing**   
 - [✅] **Reinforcement Learning**    
